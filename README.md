@@ -3,7 +3,7 @@
   Author: Nadia Bihari Padhan (<nadia_bihari.padhan@tu-dresden.de>).
  
   Institute: Institute of Scientific Computing, TU Dresden, Germany.
-  ..........................................................................
+  
   cite at: 1. Hyperuniformity in ternary fluid mixtures: the role of wetting and hydrodynamics
               Nadia Bihari Padhan† and Axel Voigt, arXiv:2506.22647
            2. Unveiling the spatiotemporal evolution of liquid-Lens coalescence: Self-similarity, vortex quadrupoles, and turbulence in a three-phase fluid system
@@ -12,7 +12,7 @@
            3. The Cahn-Hilliard-Navier-Stokes Framework for Multiphase Fluid Flows: Laminar, Turbulent, and Active
               Nadia Bihari Padhan and Rahul Pandit
               Journal of Fluid Mechanics, vol. 1010, P1,(2025)
-  ..........................................................................
+  
   DNSs of coupled Cahn-Hilliard-Navier-Stokes equations using pseudospectral 
   method.
  
