@@ -5,7 +5,7 @@
   Institute: Institute of Scientific Computing, TU Dresden, Germany.
   
   cite at: 1. Hyperuniformity in ternary fluid mixtures: the role of wetting and hydrodynamics
-              Nadia Bihari Padhan† and Axel Voigt, arXiv:2506.22647
+              Nadia Bihari Padhan and Axel Voigt, arXiv:2506.22647
            2. Unveiling the spatiotemporal evolution of liquid-Lens coalescence: Self-similarity, vortex quadrupoles, and turbulence in a three-phase fluid system
               Nadia Bihari Padhan† and Rahul Pandit
               Physics of Fluids, 35, 112105 (2023)
