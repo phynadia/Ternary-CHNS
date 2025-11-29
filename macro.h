@@ -1,0 +1,15 @@
+//#define FORCING
+//#define TG_FORCING
+//#define CONSTANT_FORCING
+#define ZERO_INIT
+//#define TG_INIT
+//#define INIT_READ_DATA
+//#define BINARY
+#define TERNARY
+//#define GRAVITY
+#define WRITE_ARRAY
+//#define DUMP_REAL_SERIAL
+#define DUMP_REAL_MPI
+//#define VPM
+//#define SPONGE
+//#define SMOOTH_FILTER
